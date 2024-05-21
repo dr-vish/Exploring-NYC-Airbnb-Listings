@@ -1,0 +1,13 @@
+# NYC Airbnb Data Visualization Project
+
+This repository contains the code for my data visualization project analyzing Airbnb listings in NYC.
+
+## Instructions for Running the Shiny App Locally:
+
+1. Clone this repository to your local machine.
+2. Open the `app.R` file in RStudio.
+3. Install the necessary packages using `install.packages(c("shiny", "leaflet", "ggplot2", "dplyr", "sf", "DT"))`.
+4. Run the app using `shiny::runApp()`.
+5. Access the app in your web browser at `http://127.0.0.1:XXXX`.
+
+For more information, refer to the documentation within the code files.
